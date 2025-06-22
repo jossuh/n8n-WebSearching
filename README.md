@@ -1,4 +1,4 @@
-# 📍 Job Searching Near - v2 (n8n Workflow)
+# 📍 Job Searching
 ![Profile Picture](n8nBanner.png)
 This n8n workflow helps professionals identify nearby companies of interest based on role, industry, and company filters. It calculates commuting distances and provides AI-generated networking tips for each match.
 ## 🚀 Project Purpose
